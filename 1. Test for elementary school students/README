@@ -1,0 +1,7 @@
+TASK:
+
+Have you ever taken tests? I think your answer is yes, since they are everywhere. Now almost all tests have been transferred to the online format and are hosted on websites developed by web developers. Now you will create a small math test for elementary students.
+
+Store each question and the pre-prepared correct answer (answers must be of the number data type) in variables. Display questions using the prompt function and also store the value entered by the user in separate variables.
+
+You also need to keep a score of correct and incorrect answers. Store this data in the correctAnswers and incorrectAnswers variables, respectively.
