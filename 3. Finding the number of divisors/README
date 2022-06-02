@@ -1,0 +1,4 @@
+TASK:
+
+You need to create a getDivisors function that takes a single number parameter. By default, it should be 1.
+This function returns the number of divisors for number. If number is less than zero or is not an integer (can be checked using the Number.isInteger(number) function), then display the message “number must be an integer and greater than zero!” in the modal window using alert.
