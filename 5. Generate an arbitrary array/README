@@ -1,0 +1,5 @@
+TASK:
+
+Learn how to generate arbitrary arrays. Learn to adapt existing code to the situation.
+
+Write an array generator of length count with random numbers from n to m. Note that n and m can be negative, and it can also be n > m or n < m.
