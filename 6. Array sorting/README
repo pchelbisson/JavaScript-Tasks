@@ -1,0 +1,5 @@
+TASK:
+
+1. Count the number of employees in each position. The answer should be of the form “position title - number of employees”.
+
+2. Display the last name, first name and salary of employees with the title ‘engineer’, the list should be sorted by salary ascending
