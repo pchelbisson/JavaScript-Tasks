@@ -1,0 +1,2 @@
+Create an HTML page with a number input field, a button, and a div element with the number 0. The input field must enter a number with the number of seconds, and the button must start a timer. When the timer starts, the number in the div element should be replaced by the one entered in the field. Then every second it should decrease by one until it reaches 0. At the same time, the timer should work correctly if the user restarts it during its operation.
+
